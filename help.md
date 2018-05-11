@@ -49,3 +49,4 @@
   - [学好Python的11个优秀资源 - 路人甲的文章 - 知乎 ](https://zhuanlan.zhihu.com/p/21464202 ) 
 - [Github上的一堆Python学习资料-掘金](https://juejin.im/entry/58f56b008d6d810057be3a0c) 
 
+## 怎样选取学习资源？
