@@ -16,3 +16,6 @@ limodou µÄ Blog, Smallfish Óã¸ç, BT µÄ»¨, ÌúÆïÊÀ½ç, [ Dualan____Moyan ], JeffµÄÃ
 
 https://wiki.woodpecker.org.cn
 Python Tutorial ÖĞÎÄ°æ, ¼òÃ÷ Python ½Ì³Ì, Python ¾ø¶Ô¼òÃ÷ÊÖ²á, Py±ê×¼¿âÊÖ²á, Dive into Python, Python ¿ª·¢±àÂë¹æ·¶,ASPN:Python,  Python Ö®ÓÅÑÅÓëè¦´Ã, Python Enhancement Proposals, Python 3000 ½ø¶È±¨¸æ, Stackless.com, PyPy,  tinypy, Text Processing in Python, reStructuredText, Python ¿ìËÙ½éÉÜ, Python ¿ìËÙ½éÉÜ, ¿ªÊ¼±à³ÌÖ®ÂÃ,
+
+Python Reference,
+Python subreddit, Python community on Google+,Python Weekly ,Dive Into Python / Dive Into Python 3 ,The Hitchhiker¡¯s Guide to Python, Think Python - How to Think Like a Computer Scientist,A Byte of Python ,Python Patterns,Intro to Computer Science - Build a Search Engine & a Social Network ,
