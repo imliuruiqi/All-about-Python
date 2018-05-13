@@ -60,6 +60,7 @@ Python官方文档的中文版以及其他由第三方整理的资源。
 - **[stack overflow上Python标签的问答](https://stackoverflow.com/questions/tagged/python)** ：**英文，推荐**。全球最大的开发者社区，以程序设计领域的问答为主。建议作为提问解疑的参考网站。
 - **[知乎上的Python话题的问答](https://www.zhihu.com/topic/19552832/index)** : 中文，**推荐**。国内社会化问答网站，其Python话题下整合了知乎上包括python相关的讨论、精华以及待回答问题。提供优质内容的索引，包括：Python 入门 、Python 进阶 、Python 玩具 、比较·反思·战争 、Python Web开发 、网络爬虫/数据采集 。并提供父子话题结构。
 - **[掘金上的Python标签文章](https://juejin.im/tag/Python)** ：中文，**推荐**，[掘金社区](https://juejin.im) 注重于开发者成长，文章质量较高。掘金上有关Python的技术文章，提供热门、最新和最热浏览，有搜索功能。
+- [Python开发社区|码库CTOLib](https://www.ctolib.com/) ：中文，**推荐**，收集GitHub上的实用python开源项目，并进行分类。 [Python开发社区](https://www.ctolib.com/python/topics) 板块有主题文章发布。提供渗透测试工具箱、开发资源速查表、并发速查表、加密速查表、基础速查表等Python速查表。
 - **[啄木鸟社区](https://wiki.woodpecker.org.cn)**：中文，**推荐。**针对不同水平的用户提供了Python学习、使用的各方面电子书以及网站资源列表，但维护上有问题，部分内容和链接不可访问，讨论组已基本无新帖。基于[CoP模式](https://wiki.woodpecker.org.cn/moin/CoP)组建/**关注Python语言**在中国的应用/推广/学习，用户们通过**维基**自在汇集文章，分享Python体验/知识/技巧，其内容分类完整良好，其中值得关注的有：
 
   - **[WoodpeckerIdxDoc啄木鸟文档](https://wiki.woodpecker.org.cn/moin/WoodpeckerIdxDoc) ：推荐**，提供了Python从入门到深入学习的系统的各种资料参考，以及部分领域的应用。其中包括：Python图书概览、开发资料中文汇编、深入Python技巧、Web应用框架、Python资源索引、编码规范、企业平台研究、嵌入/扩展开发Python应用等。
@@ -70,4 +71,3 @@ Python官方文档的中文版以及其他由第三方整理的资源。
   - **[PythonTab在线手册](http://docs.pythontab.com/)  ：中文译版，优化手机端浏览，推荐，有广告。** Python手册，Scrapy手册，Django手册，Redis手册，Flask手册，Github手册，Jinja2手册，Python3手册，Nodejs手册，Beautifulsoup手册，Tornado手册，Nginx手册，Jinja2手册，TensorFlow手册。
 - **[python4cn](http://www.simple-is-better.com/)** ：Python文章、招聘、软件以及酷站。酷站板块提供了以下列表：使用Python的商业网站、Python技术博客、Python开源项目、Python图书、Python教程、Python讨论区等。
 
-# Python新闻及订阅

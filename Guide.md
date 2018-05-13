@@ -7,7 +7,6 @@
 3. [学习Python语言：提供从入门到高阶的学习资源以及不同学习方向的路径](#3. 学习Python语言)
 4. [Python的应用与实战：Python在web开发、数据处理、网络爬虫等方面的应用和实战例子](#4. Python的应用与实战)
 5. [Python求职：Python面试技巧和职位信息](#5. Python求职)
-6. [其他待归类资源：python工具和软件等](#6. 其他待归类资源)
 
 ## 1. Python介绍与下载
 
@@ -141,7 +140,7 @@ Sage：是一个基于GPL协议的开源数学软件。它使用Python作为通�
 
 通过以下的资源来学习Python语言，除纸质图书及无特殊说明外，以下资源均可免费获取。
 
-整合资源列表中提供了在网络中已有人整合的较为完整的学习资源，其他的条目皆为本项目根据所获取的全部参考源后对学习资源的筛选整理，有关在本项目中怎样选取学习资源，请参见 ：[资源评价](./help.md#怎样选取学习资源？) 
+整合资源列表中提供了在网络中已有人整合的较为完整的学习资源，其他的条目皆为本项目根据所获取的全部参考源后对学习资源的筛选整理，有关在本项目中怎样选取学习资源，请参见 ：[资源评价](./help.md#怎样选取学习资源？) 。
 
 ### 3.1 整合资源列表
 
@@ -162,6 +161,8 @@ Sage：是一个基于GPL协议的开源数学软件。它使用Python作为通�
 
 **[Python中文文档项目](https://wiki.woodpecker.org.cn/moin/PythonZhDoc)**  ：包括Python的教学类中文图书及翻译图书（分初中高级），开发包/API类手册等。还包括Python精读书目及文章，但其主要针对Python 2.x版本。
 
+**[Python开发者教程 - CTOLib码库](https://www.ctolib.com/python/docs/)** ：中文，**推荐**。以文档为主，涵盖Python主要书籍的中文版本以及流行Python包的教程及中文文档。
+
 **[Pythonidae提供的资源列表](https://github.com/svaksha/pythonidae/blob/master/Resources.md)**：英文，项目中关于Python资源的文档，提供免费和付费区分的资源，内容包括：可供提问解答的网站、书籍、针对Python新手科学家的资源和指南 、博客、备忘单 、会议、一般资源、新闻、组织、工具、视频、研讨会教程等。
 
 **[W3CSchool提供的Python教程](https://www.w3cschool.cn/python/)** ：中文，提供初高级Python教程以及[Wiki列表](https://www.w3cschool.cn/python/list/) 和[python问答讨论区](https://www.w3cschool.cn/python/topic) 。Wiki列表提供python速查词典、IDE和编程训练。
@@ -170,7 +171,7 @@ Sage：是一个基于GPL协议的开源数学软件。它使用Python作为通�
 
 ### 3.2 初学者
 
-针对初学者的系统教程：
+针对初学者的系统教程，主要为中文资源：
 
 - [Python教程- 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) ：网上最流行的，小白的*Python*新手*教程*，具有如下特点：. 中文，免费，零起点，完整示例，基于最新的*Python* 3版本。  
 
@@ -180,7 +181,7 @@ Sage：是一个基于GPL协议的开源数学软件。它使用Python作为通�
 
   ##### 推荐书籍：
 
-- [简明Python教程 a byte of python](https://legacy.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details)：被推荐最多的入门书籍之一。旨在于介绍如何使用 Python 语言进行编程。它以教材与指南的形式为入门者介绍 Python 语言。如果你对电脑知识的了解仅限于如何保存文本文件的话，那这本书就是为你准备的。 
+- [简明Python教程 a byte of python](https://legacy.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details)：**被推荐最多的入门书籍之一**。旨在于介绍如何使用 Python 语言进行编程。它以教材与指南的形式为入门者介绍 Python 语言。如果你对电脑知识的了解仅限于如何保存文本文件的话，那这本书就是为你准备的。 
 
 - 《与孩子一起学编程》：一本老少咸宜的编程入门奇书！一册在手，你完全可以带着自己的孩子，跟随Sande父子组合在轻松的氛围中熟悉那些编程概念，如内存、循环、输入和输出、数据结构和图形用户界面等。这些知识一点儿也不高深，听起来备感亲切，书中言语幽默风趣而不失真义，让学习过程充满乐趣。细心的作者还配上了孩子们都喜欢的可爱漫画和经过运行测试的程序示例，教你用最易编写和最易理解的Python语言，写出你梦想中的游戏程序。 [获取纸质版](https://book.douban.com/subject/5338024/)
 
@@ -188,37 +189,31 @@ Sage：是一个基于GPL协议的开源数学软件。它使用Python作为通�
 
 - [笨办法学Python](https://legacy.gitbook.com/book/wizardforcel/lpthw/details)  ：这本书指导你在Python中通过练习和记忆等技巧慢慢建设和建立技能,然后应用它们解决越来越困难的问题。在这本书的最后，你需要拥有必要的工具开始进行更多复杂程序的学习。我喜欢告诉大家，我的书带给你们“编程黑带”。意思是说你知道的基础知识足够现在就开始学习编程。 
 
-- [Python核心编程](
-
-- [深入理解Python](
-
-- [Python标准库]
-
-- [Python编程指南]
-
-- [django_book](https://djangobook.com/the-django-book/) ：[Django Book 2.0 中文版· GitBook](https://www.gitbook.com/book/wizardforcel/django-book-20-zh-cn)
-
-- [django-web-app-book中文](https://github.com/wwq0327/django-web-app-book) - Django Web 开发实战,本书是一本在线的免费的Django Web编程书籍 
+- [像计算机科学家一样思考Python 第二版](https://www.ctolib.com/docs/sfile/think-python-2e/0.html) (中英对照版 作者：Allen B. Downey 翻译：大胖哥)，针对初学者对Python编程的介绍。首先介绍的是一些编程的基本内容，给出概念和解释，然后循序渐进地深入讲解每个概念。复杂的部分，比如递归以及面向对象编程，这些都分成一个个小块，以多个章节的方式来逐步介绍。 
 
 ### 3.3 进阶
 
+推荐书籍，多为免费公开资源：
+
 - [Dive Into Python3 中文版](https://dipyzh.bitbucket.io/ )：*Dive Into Python* 是为有经验的程序员编写的一本 Python 书 
-- [Django book 2.0](http://djangobook.py3k.cn/2.0/) 
+- [Django book 2.0](http://djangobook.py3k.cn/2.0/) ：[Django Book 2.0 中文版· GitBook](https://www.gitbook.com/book/wizardforcel/django-book-20-zh-cn)  使用Django，使你能够以最小的代价构建和维护高质量的Web应用。 本书的目的是将你培养成Django专家。 主要侧重于两方面： 第一，我们深度解释 Django 到底做了哪些工作以及如何用她构建Web应用；第二，我们将会在适当的地方讨论更高级的概念，并解释如何 在自己的项目中高效的使用这些工具。 通过阅读此书，你将学会快速开发功能强大网站的技巧，并且你的代码将会十分 清晰，易于维护。 本书的代码清晰，易维护，通过学习，可以快速开发功能强大的网站。 
+- [django-web-app-book中文](https://github.com/wwq0327/django-web-app-book) - Django Web 开发实战,本书是一本在线的免费的Django Web编程书籍 
 
 - [The Architecture of Open Source Applications](http://www.aosabook.org/en/index.html) ：英文。开源应用程序的体系结构 ，共有四本书
-  - 500 Lines or Less：包含了22个由该领域的专家完成，用不到500行的代码实现一个特定功能的子项目。 
-  - The Performance of Open Source Applications
-  - The Architecture of Open Source Applications Ⅰ
-  - The Architecture of Open Source Applications Ⅱ
-- [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) (作者：David Beazley, Brian K.Jones 翻译：熊能)
+  - 500 Lines or Less：包含了22个由该领域的专家完成，用不到500行的代码实现一个特定功能的子项目。目前无中文版完整翻译。部分章节翻译参见：[中文翻译计划[HT524](https://github.com/HT524)/500LineorLess_CN](https://github.com/HT524/500LineorLess_CN)
+  - The Performance of Open Source Applications ：开源应用之性能，目前无中文版完整翻译。部分章节翻译参见：[POSA 图灵社区](http://www.ituring.com.cn/tag/2482) 
+  - The Architecture of Open Source Applications Ⅰ：每一章节讲述了一种开源程序的设计，如Audacity、CMake、Eclipse、Hadoop分布式文件 系统、LLVM、Mercurial、NoSQL生态系统、Python Packaging  [图灵社区中文版](http://www.ituring.com.cn/book/1143) 
+  - The Architecture of Open Source Applications Ⅱ：同上。
+- [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) (作者：David Beazley, Brian K.Jones 翻译：熊能)：适合深入理解 Python 语言机制和现代编程风格的有经验的 Python 程序员 。大部分内容集中于在标准库，框架和应用程序中广泛使用的高级技术。 不适合 Python 的初学者 。
 - [Think Python](http://greenteapress.com/wp/think-python-2e/) : [How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/thinkpython2.pdf) by Allen Downey, 2nd Edition, Version 2.2.18. Example programs and solutions to some exercises are in this [GitHub repository](https://github.com/AllenDowney/ThinkPython2/tree/master/code).
-- [像计算机科学家一样思考Python](https://www.ctolib.com/docs/sfile/think-python-2e/0.html) (中英对照版 作者：Allen B. Downey 翻译：大胖哥)
 - [PySourceCode](https://wiki.woodpecker.org.cn/moin/PySourceCode) -- 《Python源码剖析》从Python源码中来，到Python应用中去 
-- [Python之旅](http://funhacks.net/explore-python) (作者：Ethan)
+- [Python之旅](http://funhacks.net/explore-python) (作者：Ethan)：深入浅出，条理清晰。 每章基本上都是独立的，读者可以挑选感兴趣的章节进行阅读 。
 
 ### 3.4 常用资源列表
 
 包括论坛、新闻、订阅、社交媒体等。
+
+
 
 ## 4. Python的应用与实战
 
@@ -232,8 +227,7 @@ Sage：是一个基于GPL协议的开源数学软件。它使用Python作为通�
   - **[Python Github Projects](http://itgeekworkhard.com/python-github-projects/)** : GitHub上的Python项目集合。**英文**，收集了GitHub上的Python热门开放项目，并按照项目的用途进行分类，推荐在新建项目时参考使用，目前已停止列表的维护。项目源代码参见：[checkcheckzz/python-github-projects](https://github.com/checkcheckzz/python-github-projects) 
   - **[实验楼上的Python实战项目课程](https://www.shiyanlou.com/courses/?category=all&course_type=all&fee=all&tag=Python&unfold=0)** ：中文，包含收费内容。实验楼是一家专注于IT技术的在线实训平台，采用创新的“在线实验”学习模式，为学生及在职程序员提供编程、运维、测试、云计算、大数据、数据库等当前主流IT技术实践课程 。
   - **[show-me-the-codePython 练习册](https://github.com/Yixiaohan/show-me-the-code)** ：中文，GitHub用户[Yixiaohan](https://github.com/Yixiaohan)创建。每天用写一个小程序。内容包括题目和答案。 
-
-# 5. Python求职 
+  - [CTOlib码库 Python开发社区](https://www.ctolib.com/python/) ：中文，收集GitHub上的实用python开源项目，并进行分类。每天都有新的库和项目添加到列表中。目前共有**5873**收录，并归类到**80**个分类中。每天更新计算每个库和项目的流行度与活跃度，供开发人员参考。
 
 ## 5. Python求职
 
@@ -246,5 +240,3 @@ Sage：是一个基于GPL协议的开源数学软件。它使用Python作为通�
 **[indeed 上的Python招聘](https://cn.indeed.com/%E5%B7%A5%E4%BD%9C-Python)** ：Indeed上的全国Python招聘职位，支持搜索和高级检索。
 
 **[Python招聘-招聘求职信息-拉勾网](https://www.lagou.com/zhaopin/Python/)** ：拉勾网是互联网领域垂直招聘*网站*，提供*Python*招聘信息，支持搜索和高级筛选。
-
-## 6. 其他待归类资源
