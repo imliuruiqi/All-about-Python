@@ -8,6 +8,8 @@
 4. [Python的应用与实战：Python在web开发、数据处理、网络爬虫等方面的应用和实战例子](#4. Python的应用与实战)
 5. [Python求职：Python面试技巧和职位信息](#5. Python求职)
 
+> 想查看完整的资源列表？请转至：[资源列表](./Resources.md)
+
 ## 1. Python介绍与下载
 
 ### 1.1 Python是什么
@@ -51,7 +53,7 @@ Sage：是一个基于GPL协议的开源数学软件。它使用Python作为通�
 
 #### 安装包等文件资源的下载
 
-以下为主要的国内开源镜像站，提供各项开源资源的下载。
+以下为主要的国内开源镜像站，提供各项开源软件资源的下载。
 
 ##### 教育网主要镜像站
 
@@ -60,7 +62,7 @@ Sage：是一个基于GPL协议的开源数学软件。它使用Python作为通�
 - **[上海大学开源镜像站](https://mirrors.shu.edu.cn/)：推荐**，由[上海大学信息化办公室](http://www.its.shu.edu.cn/)提供基础设施支持，由[上海大学NITA实验室](https://nita.shu.edu.cn/)提供服务器支持，由[上海大学开源社区](https://osc.shu.edu.cn/)负责管理维护。本站所有源均可通过HTTP、FTP和RSYNC方式访问，RSYNC的访问模块名为源的HTTP子目录名。 提供[anaconda](https://mirrors.shu.edu.cn/anaconda)和[pypi](https://mirrors.shu.edu.cn/pypi)镜像。
 - **[北京理工大学开源软件镜像](http://mirror.bit.edu.cn/web/)：推荐**，由北京理工大学网络信息技术中心提供的北理工开源镜像服务。可以通过 HTTP 或 RSYNC 协议访问此服务器的资源，服务器分域名提供 IPv4 和 IPv6 的访问地址。
 
-完整列表如下：
+完整列表如下，提供 ipv6 和ipv4的访问地址：
 
 - **东北地区：**东北大学（[IPv4 & IPv6](http://mirror.neu.edu.cn/), [IPv6](http://mirror.neu6.edu.cn/)）、大连理工大学（[IPv4 & IPv6](http://mirror.dlut.edu.cn/)）、大连东软信息学院（[IPv4 & IPv6](http://mirrors.neusoft.edu.cn/)）、哈尔滨工业大学（[IPv4 & IPv6](http://run.hit.edu.cn/), [IPv6](http://run.hit6.edu.cn/)）
 - **华北地区：**清华大学（[IPv4 & IPv6](http://mirrors.tuna.tsinghua.edu.cn/), [IPv4](http://mirrors.4.tuna.tsinghua.edu.cn/), [IPv6](http://mirrors.6.tuna.tsinghua.edu.cn/)）、北京理工大学（[IPv4](http://mirror.bit.edu.cn/), [IPv6](http://mirror.bit6.edu.cn/)）、北京交通大学（[IPv4 & IPv6](http://mirror.bjtu.edu.cn/)）、天津大学（[IPv4](http://mirror.tju.edu.cn/), [IPv6](http://mirror.tju6.edu.cn/)）
@@ -73,9 +75,9 @@ Sage：是一个基于GPL协议的开源数学软件。它使用Python作为通�
 
 ##### 非教育网的主要镜像站
 
-- [网易开源镜像站](http://mirrors.163.com/):pypi
-- [阿里开源镜像站](http://mirrors.aliyun.com/):pypi
-- [搜狐开源镜像站](http://mirrors.sohu.com/):python
+- [网易开源镜像站](http://mirrors.163.com/): pypi
+- [阿里开源镜像站](http://mirrors.aliyun.com/): pypi
+- [搜狐开源镜像站](http://mirrors.sohu.com/): python
 
 #### pip源地址
 
@@ -129,12 +131,18 @@ Sage：是一个基于GPL协议的开源数学软件。它使用Python作为通�
 
   ##### 针对特定领域或用途的资源集合
 
-- 网络爬虫：**[awesome-web-scraping](https://link.juejin.im/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fgithub.com%2Florien%2Fawesome-web-scraping%2Fblob%2Fmaster%2Fpython.md)**：**英文，推荐**。**爬虫工具集合**，由[lorien](https://github.com/lorien)整理包含Python网页抓取和数据处理相关的库。 原网页为英文版，中文版参见： [SDK.cn技术文章](https://sdk.cn/news/8050) 。主要内容包括：网络相关的通用库以及异步的相关资源、网络爬虫框架、HTML/XML解析及相关规范、文本处理相关的库、处理特编辑特殊字符格式的库、自然语言处理库、浏览器自动化与仿真、多进程并发、异步网络编程库、队列、云计算、电子邮件处理库、URL和网络地址操作相关的库、网页内容提取相关的库、用于Web Socket的库、DNS解析、计算机视觉相关的库、代理服务器以及其他杂项。
+- **网络爬虫**：**[awesome-web-scraping](https://link.juejin.im/?target=http%3A%2F%2Flink.zhihu.com%2F%3Ftarget%3Dhttps%253A%2F%2Fgithub.com%2Florien%2Fawesome-web-scraping%2Fblob%2Fmaster%2Fpython.md)**：**英文，推荐**。**爬虫工具集合**，由[lorien](https://github.com/lorien)整理包含Python网页抓取和数据处理相关的库。 原网页为英文版，中文版参见： [SDK.cn技术文章](https://sdk.cn/news/8050) 。主要内容包括：网络相关的通用库以及异步的相关资源、网络爬虫框架、HTML/XML解析及相关规范、文本处理相关的库、处理特编辑特殊字符格式的库、自然语言处理库、浏览器自动化与仿真、多进程并发、异步网络编程库、队列、云计算、电子邮件处理库、URL和网络地址操作相关的库、网页内容提取相关的库、用于Web Socket的库、DNS解析、计算机视觉相关的库、代理服务器以及其他杂项。
 
-- Python Web：**[Full Stack：Python全栈导航](https://www.fullstackpython.com/)** ：**被诸多参考源推荐**，提供中文译本，Matt Makai 整理创建的有关如何创建、部署并且运行生产级Python web应用的一切知识 。中文版由 [开源爱好者们](https://github.com/haiiiiiyun/fullstackpython.cn/graphs/contributors) 共同翻译 。[英文版](https://www.fullstackpython.com/) | [中文版](http://fullstackpython.atjiang.com/)
-- 网络安全和破解：**[Python军火库 - t00ls.net](https://www.t00ls.net/static/html/pytools.html)** ：中文。有关网络安全的Python资源，**推荐专业人员使用**。其内容包括：漏洞及渗透练习平台、扫描器、信息搜集工具、WEB、windows域渗透工具、Fuzz、漏洞利用及攻击框架、漏洞POC&EXP、中间人攻击及钓鱼、密码破解、二进制及代码分析工具、二进制静态分析工具、EXP编写框架及工具、隐写、各类安全资料、各类CTF资源、甲方安全工程师生存指南、蜜罐、远控以及各类编程资源。
-- 科学计算：**[pythonidae](https://github.com/svaksha/pythonidae)** ：英文，GitHub上由[svaksha](https://github.com/svaksha) 发起的有关Python科学编程以及数学和统计计算的资源集合，此处列出的一些资源也可能在其代码库中使用Go，Java，Julia，R语言等其他语言。提供优化阅读的[另一版本Pythonidae](http://svaksha.github.io/pythonidae/)。
-- Python项目大集合：**[Python Github Projects](http://itgeekworkhard.com/python-github-projects/)** : GitHub上的Python项目集合。**英文**，收集了GitHub上的Python热门开放项目，并按照项目的用途进行分类，推荐在新建项目时参考使用，目前已停止列表的维护。项目源代码参见：[checkcheckzz/python-github-projects](https://github.com/checkcheckzz/python-github-projects) 
+- **Python Web**：**[Full Stack：Python全栈导航](https://www.fullstackpython.com/)** ：**被诸多参考源推荐**，提供中文译本，Matt Makai 整理创建的有关如何创建、部署并且运行生产级Python web应用的一切知识 。中文版由 [开源爱好者们](https://github.com/haiiiiiyun/fullstackpython.cn/graphs/contributors) 共同翻译 。[英文版](https://www.fullstackpython.com/) | [中文版](http://fullstackpython.atjiang.com/)
+
+- **网络安全和破解**：**[Python军火库 - t00ls.net](https://www.t00ls.net/static/html/pytools.html)** ：中文。有关网络安全的Python资源，**推荐专业人员使用**。其内容包括：漏洞及渗透练习平台、扫描器、信息搜集工具、WEB、windows域渗透工具、Fuzz、漏洞利用及攻击框架、漏洞POC&EXP、中间人攻击及钓鱼、密码破解、二进制及代码分析工具、二进制静态分析工具、EXP编写框架及工具、隐写、各类安全资料、各类CTF资源、甲方安全工程师生存指南、蜜罐、远控以及各类编程资源。
+
+- **科学计算**：**[pythonidae](https://github.com/svaksha/pythonidae)** ：英文，GitHub上由[svaksha](https://github.com/svaksha) 发起的有关Python科学编程以及数学和统计计算的资源集合，此处列出的一些资源也可能在其代码库中使用Go，Java，Julia，R语言等其他语言。提供优化阅读的[另一版本Pythonidae](http://svaksha.github.io/pythonidae/)。
+
+- **Python项目大集合**：
+
+  - **[Python Github Projects](http://itgeekworkhard.com/python-github-projects/)** : GitHub上的Python项目集合。**英文**，收集了GitHub上的Python热门开放项目，并按照项目的用途进行分类，推荐在新建项目时参考使用，目前已停止列表的维护。项目源代码参见：[checkcheckzz/python-github-projects](https://github.com/checkcheckzz/python-github-projects) 
+  - **[CTOlib码库 Python开发社区](https://www.ctolib.com/python/)** ：中文，收集GitHub上的实用python开源项目，并进行分类。每天都有新的库和项目添加到列表中。目前共有**5873**收录，并归类到**80**个分类中。每天更新计算每个库和项目的流行度与活跃度，供开发人员参考。
 
 ## 3. 学习Python语言
 
@@ -209,12 +217,6 @@ Sage：是一个基于GPL协议的开源数学软件。它使用Python作为通�
 - [PySourceCode](https://wiki.woodpecker.org.cn/moin/PySourceCode) -- 《Python源码剖析》从Python源码中来，到Python应用中去 
 - [Python之旅](http://funhacks.net/explore-python) (作者：Ethan)：深入浅出，条理清晰。 每章基本上都是独立的，读者可以挑选感兴趣的章节进行阅读 。
 
-### 3.4 常用资源列表
-
-包括论坛、新闻、订阅、社交媒体等。
-
-
-
 ## 4. Python的应用与实战
 
 - [Applications for Python (Python 的应用)](https://www.python.org/about/apps/) ：英文，官方介绍Python在网络开发、科学计算、教育、软件开发、商业应用等领域的应用和相关软件包，以及其桌面GUI 软件包。
@@ -225,11 +227,13 @@ Sage：是一个基于GPL协议的开源数学软件。它使用Python作为通�
 - 科学计算：**[pythonidae](https://github.com/svaksha/pythonidae)** ：英文，GitHub上由[svaksha](https://github.com/svaksha) 发起的有关Python科学编程以及数学和统计计算的资源集合，此处列出的一些资源也可能在其代码库中使用Go，Java，Julia，R语言等其他语言。提供优化阅读的[另一版本Pythonidae](http://svaksha.github.io/pythonidae/)。
 - Python项目大集合：
   - **[Python Github Projects](http://itgeekworkhard.com/python-github-projects/)** : GitHub上的Python项目集合。**英文**，收集了GitHub上的Python热门开放项目，并按照项目的用途进行分类，推荐在新建项目时参考使用，目前已停止列表的维护。项目源代码参见：[checkcheckzz/python-github-projects](https://github.com/checkcheckzz/python-github-projects) 
+  - **[CTOlib码库 Python开发社区](https://www.ctolib.com/python/)** ：中文，收集GitHub上的实用python开源项目，并进行分类。每天都有新的库和项目添加到列表中。目前共有**5873**收录，并归类到**80**个分类中。每天更新计算每个库和项目的流行度与活跃度，供开发人员参考。
   - **[实验楼上的Python实战项目课程](https://www.shiyanlou.com/courses/?category=all&course_type=all&fee=all&tag=Python&unfold=0)** ：中文，包含收费内容。实验楼是一家专注于IT技术的在线实训平台，采用创新的“在线实验”学习模式，为学生及在职程序员提供编程、运维、测试、云计算、大数据、数据库等当前主流IT技术实践课程 。
   - **[show-me-the-codePython 练习册](https://github.com/Yixiaohan/show-me-the-code)** ：中文，GitHub用户[Yixiaohan](https://github.com/Yixiaohan)创建。每天用写一个小程序。内容包括题目和答案。 
-  - [CTOlib码库 Python开发社区](https://www.ctolib.com/python/) ：中文，收集GitHub上的实用python开源项目，并进行分类。每天都有新的库和项目添加到列表中。目前共有**5873**收录，并归类到**80**个分类中。每天更新计算每个库和项目的流行度与活跃度，供开发人员参考。
 
 ## 5. Python求职
+
+[**InterviewKeyOfPython面试宝典**](https://github.com/PythonScientists/InterviewKeyOfPython)：**中文，**Github上由 [PythonScientists](https://github.com/PythonScientists)创建的，包含所有关于python各个相关岗位的面试真题以及面试经验）,会即时更新以及收录最新的面试大全。
 
 **[Reddit上的Python板块](https://www.reddit.com/r/Python/)**：**英文。**Reddit社区上关于Python的讨论，其中包含问答和职业招聘信息。Reddit是一个娱乐、社交及新闻网站，注册用户可以将文字或链接在网站上发布，使它基本上成为了一个电子布告栏系统，目前是美国人气最高的新闻社区。 
 
